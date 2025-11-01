@@ -1,8 +1,8 @@
-#📊 Ride Analytics Dashboard (Simulated OLA Case Study)
+### 📊 Ride Analytics Dashboard (Simulated OLA Case Study)
 
 This project showcases a simulated ride-hailing analytics dashboard built using **Power BI** and dummy data to replicate real-world business scenarios. It provides insights into bookings, vehicle performance, revenue, cancellations, and customer satisfaction.
 
----
+--
 
 ### 🛠️ Tech Stack
 - Power BI  
@@ -18,7 +18,7 @@ This project showcases a simulated ride-hailing analytics dashboard built using 
 
 ---
 
-✨ Features
+### ✨ Features
 - Overall booking summary with status breakdown and daily trends  
 - Vehicle type analysis: success rates, booking value, and average distance  
 - Revenue insights: payment method preferences and top customer contributions  
@@ -35,4 +35,3 @@ This project showcases a simulated ride-hailing analytics dashboard built using 
 
 ---
 
-Let me know if you'd like help writing the actual `README.md` file or want to add visuals and annotations for GitHub. You're building a strong portfolio—this format will make it shine!
