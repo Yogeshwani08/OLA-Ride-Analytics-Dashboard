@@ -2,7 +2,7 @@
 
 This project showcases a simulated ride-hailing analytics dashboard built using **Power BI** and dummy data to replicate real-world business scenarios. It provides insights into bookings, vehicle performance, revenue, cancellations, and customer satisfaction.
 
---
+---
 
 ### 🛠️ Tech Stack
 - Power BI  
