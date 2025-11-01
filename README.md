@@ -29,8 +29,8 @@ This project showcases a simulated ride-hailing analytics dashboard built using 
 ---
 
 ### 📁 Files
-- `OLA Ride Analytics Dashboard.pbix`: Power BI report  
-- `Ola Pr.mp4`: Demo walkthrough (optional)  
+- `OLA_Ride_Analytics_Dashboard.pbix`: Power BI report  
+- `Ola_Ride_Demo.mp4`: Demo walkthrough (optional)  
 - `README.md`: Project documentation  
 
 ---
